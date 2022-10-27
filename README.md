@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alpha-Combo
+- 👋 Hi, I’m @Alpha-Combo aka AtillaColgecen
 - 👀 I’m interested in Cloud Computing, Database, Python, Hacking
 - 🌱 I’m currently learning Cloud Computing
 - 💞️ I’m looking to collaborate on almost everything
